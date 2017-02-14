@@ -1027,19 +1027,19 @@ will modify the virtual space and the price of the vehicle, but other informatio
         conditions = "license_civ_driver || {license_cop_driver} || {license_med_driver} || {license_adac_driver}";
         price = 65000;
         textures[] = {
-            /* { "Dunkel Rot", "civ", {
+           { "Dunkel Rot", "civ", {
                 "\a3\soft_f_gamma\SUV_01\Data\suv_01_ext_co.paa"
             }, "" },
-            { "Silber", "civ", {
+           { "Silber", "civ", {
                 "\a3\soft_f_gamma\SUV_01\Data\suv_01_ext_03_co.paa"
             }, "" },
             { "Orange", "civ", {
                 "\a3\soft_f_gamma\SUV_01\Data\suv_01_ext_04_co.paa"
-            }, "" }, */
-			{ "Schwarz", "civ", {
+            }, "" }, 
+			/* { "Schwarz", "civ", {
                 "textures\Civ\Car\metalschwarz_suv.jpg"
             }, "" },
-			/* { "Camo", "civ", {
+			{ "Camo", "civ", {
                 "textures\Civ\Car\camo_suv.jpg"
             }, "" },
 			{ "Ken Block", "civ", {
